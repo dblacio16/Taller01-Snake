@@ -19,15 +19,15 @@ Conflicto detectado
 ![Conflicto del Integrante 1](evidencias/integrante1_conflicto.png)
 
 Resolución del conflicto
-![Resolución del conflicto](evidencias/integrante1_resolucion.png)
+![Resolucion del conflicto](evidencias/integrante1_resolucion.png)
 
 Commit después de resolver el conflicto
 ![Commit del Integrante 1](evidencias/integrante1_commit.png)
 
 ### Integrante 2
 
-Push rechazado:
-![Push rechazado Integrante 2](evidencias/integrante2_error.png)
+Conflicto detectado despues del push rechazado:
+![Conflicto del Integrante 2](evidencias/integrante2_conflicto.png)
 
 Push final / repositorio sincronizado:
 ![Push final Integrante 2](evidencias/integrante2_final.png)
